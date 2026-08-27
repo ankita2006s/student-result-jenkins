@@ -33,6 +33,6 @@ if __name__ == "__main__":
 
     print("Student Result")
     print("----------------")
-    print("Name:", result["name"])
-    print("Average:", result["average"])
-    print("Grade:", result["grade"])
+    print("Name=", result["name"])
+    print("Average=", result["average"])
+    print("Grade=", result["grade"])
